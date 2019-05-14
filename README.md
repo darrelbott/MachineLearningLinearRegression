@@ -1,14 +1,19 @@
 # MachineLearningLinearRegression
 Machine learning for linear regression and displaying a scatter plot based on the most accurate model.
+
 This project was to demonstrate how to predict student performance in secondary education (high school)
  final grade (G3) based on some given variables.
 
 
  Data from: https://archive.ics.uci.edu/ml/datasets/Student+Performance
+ 
  Citation: P. Cortez and A. Silva. Using Data Mining to Predict Secondary School Student Performance. In A. Brito and
            J. Teixeira Eds., Proceedings of 5th FUture BUsiness TEChnology Conference (FUBUTEC 2008) pp. 5-12, Porto,
            Portugal, April, 2008, EUROSIS, ISBN 978-9077381-39-7.
+ 
+ 
  Data Set Information:
+ 
  This data approach student achievement in secondary education of two Portuguese schools. The data attributes include
  student grades, demographic, social and school related features) and it was collected by using school reports and
  questionnaires. Two datasets are provided regarding the performance in two distinct subjects: Mathematics (mat) and
@@ -17,6 +22,7 @@ This project was to demonstrate how to predict student performance in secondary 
  G2 and G1. This occurs because G3 is the final year grade (issued at the 3rd period), while G1 and G2 correspond to
  the 1st and 2nd period grades. It is more difficult to predict G3 without G2 and G1, but such prediction is much more
  useful (see paper source for more details).
+
 
  Attribute Information:
 
